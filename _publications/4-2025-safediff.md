@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/4-2025-safediff
 excerpt: ''
-date: 2024-09-15
+date: 2025-04-30
 venue: 'CoRL'
 paperurl: '/files/publication/2025-safediff.pdf'
 # citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
