@@ -19,9 +19,7 @@ It's a pleasure to connect with you!🤝
  
  **Secondly**, Job I am currently supporting：
  
- DL, ML, RL, AI Agents ,Generative AI ,Embodied Data
- 
- WM, VLA, VLM , LLM, Motion Control, Image Algorithms etc.
+ DL, ML, RL, AI Agents ,Generative AI ,Embodied Data, WM, VLA, VLM , LLM, Motion Control, Image Algorithms etc.
  
 My goal is to **share verified**,  industry insights I’ve gathered and build **seamless connections**, between **hiring teams and forward-thinking talent**, to drive **impactful outcomes**.
 
@@ -30,6 +28,8 @@ Thank you for reading.
 Best regards,
 
 **Conor HR** ✍︎
+
+
 
 你好，我是机器人招聘 **HR - Conor** 🙌
 
