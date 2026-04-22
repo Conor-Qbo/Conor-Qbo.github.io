@@ -7,16 +7,58 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Lai Wei, a master student in [Computer Science & Engineering](https://cse.ucsd.edu/) at [UC San Diego](https://ucsd.edu). Before that, I obtained my Bachelor of Engineering degree in Computer Science and Engineering at [CUHK-Shenzhen](https://www.cuhk.edu.cn/en). 
+Hello！ I'm **Conor** 🙌
 
-My research interest lies in robotics, computer vision and embodied AI, as mentored by Prof. [Ruimao Zhang](http://www.zhangruimao.site/#) and Prof. [Xiaoguang Han](https://gaplab.cuhk.edu.cn/pages/people) in my undergraduate studies. Now, I was fortunately advised by Prof. [Xiaolong Wang](https://xiaolonw.github.io/) at UC San Diego. With my recent work in robotics manipulation force safety, I have become interested in:
+A dedicated **HR ＆ Recruiter** specializing in **robotics and AI talent** acquisition.
 
-1. diffusion models for robotic learning <br>
-2. impedance control for robotic arm or even mobile robots (by whole-body control)<br>
-3. force safety and calibration in contact-rich robotic tasks  <br>
+It's a pleasure to connect with you!🤝
 
+ **Firstly**, Team I am currently supporting：
+ 
+ AI, Robotics, Dexterous Hands, AR/VR Headsets, Agents, and Embodied Data.
+ 
+ **Secondly**, Job I am currently supporting：
+ 
+ DL, ML, RL, AI Agents ,Generative AI ,Embodied Data
+ 
+ WM, VLA, VLM , LLM, Motion Control, Image Algorithms etc.
+ 
+My goal is to **share verified**,  industry insights I’ve gathered and build **seamless connections**, between **hiring teams and forward-thinking talent**, to drive **impactful outcomes**.
 
-Apart from that, I also have interests in other computer science topics, such as: CUDA and HPC, Reinforcement Learning, Linux systems, and LLMs...
+Thank you for reading.
 
-Feel free to contact me and discuss with me about everything! 
+Best regards,
+
+**Conor HR** ✍︎
+
+你好，我是机器人招聘 **HR - Conor** 🙌
+
+很高兴认识！🤝
+
+ **甲：Conor支持的团队**：
+ 
+ AI，Robot，灵巧手，AR\VR眼镜，AI智造，Agent，具身数据
+ 
+ **乙：Conor支持的方向**
+ 
+ **1）机器人算法**：机器学习；Agent；生成式AI Generative AI；具身数据；世界模型；VLA、VLM 、LLM ；运控，计算机视觉，音频算法，影像算法 etc.
+ 
+ **2）机器人本体**：硬件电子，机械结构，产品经理，agent产品，电机电磁，关节模组，灵巧手
+ 
+ **3）机器人软件**：嵌入式软件，IOS客户端，持续集成CICD，后端开发 etc.
+ 
+ **4）其他**：专利和知识产权，公共关系，法务，供应链，新产品导入，采购，市场和营销和GTM。
+ 
+我的目的是**分享自己了解到的真实信息，为团队和前沿人才搭建顺畅的沟通桥梁，实现好的结果**。
+
+如果你对某项职位感兴趣，我很高兴和你分享自己掌握的；
+
+如果你有合作需要，我会基于自己和团队的能力达到目标；
+
+或者你有其他互相交流的信息，我将会基于坦诚和你分享。
+
+感谢阅读
+
+你的朋友：**Conor HR** ✍︎
+
 
