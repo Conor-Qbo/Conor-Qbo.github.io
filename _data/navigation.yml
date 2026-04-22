@@ -11,9 +11,8 @@ main:
     url: /supporting-job/
   - title: "Articles"
     url: /articles/
-  - title: "Personal Site"
+  - title: "Personal site"
     url: /personal-site/
-    
-  - title: "conor CV"
-    url: /conor cv/
+  - title: "conor bio"
+    url: /conor-bio/
     
