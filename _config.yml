@@ -10,9 +10,9 @@ repository               : "Conor-Qbo/Conor-Qbo.github.io"
 author:
   name              : "Conor"
   bio               : "HR | Robotics & AI Talent<br>Interesting sharing <br>authentic information<br>有趣的分享，真实的信息。"
-  avatar            : "/assets/images/Qbo.jpg"
+  avatar            : "Qbo.jpg"
   uri               : "https://www.xiaohongshu.com/user/profile/5df428250000000001007daa"
-  email             : "xfire19580517@163.com"
+  email             : "xfire-hr@outlook.com"
   github            : "Conor-Qbo"
   links:
     - label: "GitHub"
@@ -23,13 +23,13 @@ author:
       url: "https://www.xiaohongshu.com/user/profile/5df428250000000001007daa"
     - label: "Email"
       icon: "fas fa-envelope"
-      url: "mailto:xfire19580517@163.com"
+      url: "mailto:xfire-hr@outlook.com"
     - label: "公众号：conorHR"
       icon: "fab fa-weixin"
       url: "#"
     - label: "公众号：清bo"
       icon: "fab fa-weixin"
-      url: "#"
+      url: "https://mp.weixin.qq.com/s/WuhSKm5XVp3WeJWA4VSMnQ"
 
       
 breadcrumbs              : false
