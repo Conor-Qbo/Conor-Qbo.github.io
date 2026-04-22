@@ -1,18 +1,14 @@
 # Authors
-
-Name Name:
-  name        : "Name Name"
-  uri         : "http://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
-
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
+Conor:
+  name: "Conor"
+  uri: "https://conor-qbo.github.io"
+  email: "xfire19580517@163.com"
+  bio: "Senior Recruiter | Robotics & AI Talent"
+  avatar: "/assets/images/Qbo.jpg"
+    links:
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/Conor-Qbo"
+    - label: "小红书"
+      icon: "fab fa-weibo" 
+      url: "https://www.xiaohongshu.com/user/profile/5df428250000000001007daa"
