@@ -2,7 +2,7 @@ Conor:
   name: "Conor"
   uri: "https://conor-qbo.github.io"
   email: "xfire19580517@163.com"
-  bio: "HR ＆ Recruiter | Robotics & AI Talent<br><br>Interesting sharing, authentic information<br><br>有趣的分享，真实的信息。"
+  bio: "HR | Robotics & AI Talent<br>Interesting sharing, authentic information<br>有趣的分享，真实的信息。"
   avatar: "/assets/images/Qbo.jpg"
   links:
     - label: "GitHub"
@@ -11,3 +11,11 @@ Conor:
     - label: "小红书"
       icon: "fab fa-weibo"
       url: "https://www.xiaohongshu.com/user/profile/5df428250000000001007daa"
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:xfire19580517@163.com"
+    - label: "公众号：conorHR"
+      icon: "fab fa-weixin"
+    - label: "公众号：清bo"
+      icon: "fab fa-weixin"
+      
