@@ -4,7 +4,6 @@ title: "About Conor"
 author_profile: true
 ---
 
-# About Me
 
 <p style="font-size:14px; line-height:1.8;">
 Hello! I'm Conor 🙌<br><br>
