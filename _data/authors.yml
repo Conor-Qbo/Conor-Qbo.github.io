@@ -1,14 +1,13 @@
-# Authors
 Conor:
   name: "Conor"
   uri: "https://conor-qbo.github.io"
   email: "xfire19580517@163.com"
-  bio: "Senior Recruiter | Robotics & AI Talent"
+  bio: "Senior HR Recruiter | Robotics & AI Talent Acquisition"
   avatar: "/assets/images/Qbo.jpg"
-    links:
+  links:
     - label: "GitHub"
       icon: "fab fa-github"
       url: "https://github.com/Conor-Qbo"
     - label: "小红书"
-      icon: "fab fa-weibo" 
+      icon: "fab fa-weibo"
       url: "https://www.xiaohongshu.com/user/profile/5df428250000000001007daa"
