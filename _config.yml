@@ -7,13 +7,6 @@ url                      : "https://conor-qbo.github.io"
 baseurl                  : ""
 repository               : "Conor-Qbo/Conor-Qbo.github.io"
 
-author:
-  name             : "Conor"
-  bio              : "HR | Robotics & AI Talent<br>Interesting sharing <br>authentic information<br>有趣的分享，真实的信息。"
-  location         : "Tianjin, China"
-  uri              : "https://www.xiaohongshu.com/user/profile/5df428250000000001007daa"
-  email            : "xfire19580517@163.com"
-  github           : "Conor-Qbo"
 
 breadcrumbs              : false
 words_per_minute         : 160
