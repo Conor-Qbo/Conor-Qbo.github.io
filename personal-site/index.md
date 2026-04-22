@@ -1,9 +1,9 @@
 ---
-title: "Supporting Job"
+title: "Personal site"
 layout: single
-permalink: /supporting-job/
+permalink: /personal-site/
 ---
 
-### 这里是Conor的小红书社区
+## Here's Conor-小红书社区
 
 [conor HR](https://www.xiaohongshu.com/user/profile/5df428250000000001007daa)
