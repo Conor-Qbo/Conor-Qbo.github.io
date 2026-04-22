@@ -1,14 +1,15 @@
-Conor:
-  name: "Conor"
-  uri: "https://conor-qbo.github.io"
-  email: "xfire19580517@163.com"
-  bio: "HR | Robotics & AI Talent<br>Interesting sharing <br>authentic information<br>有趣的分享，真实的信息。"
-  avatar: "/assets/images/Qbo.jpg"
+author:
+  name              : "Conor"
+  bio               : "HR | Robotics & AI Talent<br>Interesting sharing <br>authentic information<br>有趣的分享，真实的信息。"
+  avatar            : "/assets/images/Qbo.jpg"
+  uri               : "https://www.xiaohongshu.com/user/profile/5df428250000000001007daa"
+  email             : "xfire19580517@163.com"
+  github            : "Conor-Qbo"
   links:
     - label: "GitHub"
       icon: "fab fa-github"
       url: "https://github.com/Conor-Qbo"
-    - label: "小红书"
+    - label: "小红书123"
       icon: "fab fa-weibo"
       url: "https://www.xiaohongshu.com/user/profile/5df428250000000001007daa"
     - label: "Email"
@@ -16,6 +17,7 @@ Conor:
       url: "mailto:xfire19580517@163.com"
     - label: "公众号：conorHR"
       icon: "fab fa-weixin"
+      url: "#"
     - label: "公众号：清bo"
       icon: "fab fa-weixin"
-      
+      url: "#"
