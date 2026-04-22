@@ -18,7 +18,7 @@ author:
     - label: "GitHub"
       icon: "fab fa-github"
       url: "https://github.com/Conor-Qbo"
-    - label: "小红书"
+    - label: "小红书123"
       icon: "fab fa-weibo"
       url: "https://www.xiaohongshu.com/user/profile/5df428250000000001007daa"
     - label: "Email"
@@ -26,8 +26,10 @@ author:
       url: "mailto:xfire19580517@163.com"
     - label: "公众号：conorHR"
       icon: "fab fa-weixin"
+      url: "#"
     - label: "公众号：清bo"
       icon: "fab fa-weixin"
+      url: "#"
 
 breadcrumbs              : false
 words_per_minute         : 160
