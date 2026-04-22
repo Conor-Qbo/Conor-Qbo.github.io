@@ -1,76 +1,29 @@
-# Welcome to Jekyll!
-
-# Basic Site Settings
 locale                   : "en-US"
 title                    : "Conor | Robotics & AI Recruiter"
 title_separator          : "-"
-name                     : &name "Conor"
-description              : &description "Senior Recruiter specializing in Robotics, AI, Embodied Intelligence and Hardware talent."
-url                      : https://conor-qbo.github.io
+name                     : "Conor"
+description              : "Senior Recruiter specializing in Robotics, AI, Embodied Intelligence and Hardware talent."
+url                      : "https://conor-qbo.github.io"
 baseurl                  : ""
 repository               : "Conor-Qbo/Conor-Qbo.github.io"
 
-# Site Author
 author:
-  avatar           : "/assets/images/Qbo.jpg"
   name             : "Conor"
   bio              : "Senior HR Recruiter | Robotics & AI Talent Acquisition"
   location         : "Tianjin, China"
-  employer         : 
-  uri              : https://conor-qbo.github.io
+  uri              : "https://conor-qbo.github.io"
   email            : "xfire19580517@163.com"
-
-  # Academic
-  arxiv            :
-  googlescholar    :
-  orcid            :
-  researchgate     :
-
-  # Repositories
   github           : "Conor-Qbo"
 
-  # Social Media
-  linkedin         :
-  twitter          :
-  weibo            :
-  zhihu            :
-  bluesky          :
-  facebook         :
-  instagram        :
-
-# Site Settings
-teaser                   :
 breadcrumbs              : false
 words_per_minute         : 160
-future                   : true
 read_more                : "disabled"
 talkmap_link             : false
-
 comments:
   provider               : false
-
 atom_feed:
   hide                   : true
 
-# SEO Related
-google_site_verification :
-bing_site_verification   :
-
-# Social Sharing
-twitter:
-  username               :
-social:
-  type                   : Person
-  name                   : "Conor"
-  links:
-    - https://github.com/Conor-Qbo
-    - https://www.xiaohongshu.com/user/profile/5df428250000000001007daa
-
-# Analytics
-analytics:
-  provider               : false
-
-# Reading Files
 include:
   - .htaccess
   - _pages
@@ -103,7 +56,6 @@ keep_files:
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
-# Conversion
 markdown: kramdown
 highlighter: rouge
 lsi: false
@@ -120,7 +72,6 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
-# Collections (you already deleted these folders, so keep minimal)
 collections:
   teaching:
     output: false
@@ -131,7 +82,6 @@ collections:
   talks:
     output: false
 
-# Defaults
 defaults:
   - scope:
       path: ""
@@ -140,16 +90,13 @@ defaults:
       layout: single
       author_profile: true
 
-# Sass/SCSS
 sass:
   sass_dir: _sass
   style: compressed
 
-# Outputting
 permalink: /:categories/:title/
 timezone: Asia/Shanghai
 
-# Plugins
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
@@ -164,7 +111,6 @@ whitelist:
   - jekyll-feed
   - jemoji
 
-# Archives
 category_archive:
   type: liquid
   path: /categories/
@@ -172,182 +118,5 @@ tag_archive:
   type: liquid
   path: /tags/
 
-# HTML Compression
-compress_html:
-  clippings: all# Welcome to Jekyll!
-
-# Basic Site Settings
-locale                   : "en-US"
-title                    : "Conor | Robotics & AI Recruiter"
-title_separator          : "-"
-name                     : &name "Conor"
-description              : &description "Senior Recruiter specializing in Robotics, AI, Embodied Intelligence and Hardware talent."
-url                      : https://conor-qbo.github.io
-baseurl                  : ""
-repository               : "Conor-Qbo/Conor-Qbo.github.io"
-
-# Site Author
-author:
-  avatar           : "/assets/images/Qbo.jpg"
-  name             : "Conor"
-  bio              : "Senior HR Recruiter | Robotics & AI Talent Acquisition"
-  location         : "Tianjin, China"
-  employer         : 
-  uri              : https://conor-qbo.github.io
-  email            : "xfire19580517@163.com"
-
-  # Academic
-  arxiv            :
-  googlescholar    :
-  orcid            :
-  researchgate     :
-
-  # Repositories
-  github           : "Conor-Qbo"
-
-  # Social Media
-  linkedin         :
-  twitter          :
-  weibo            :
-  zhihu            :
-  bluesky          :
-  facebook         :
-  instagram        :
-
-# Site Settings
-teaser                   :
-breadcrumbs              : false
-words_per_minute         : 160
-future                   : true
-read_more                : "disabled"
-talkmap_link             : false
-
-comments:
-  provider               : false
-
-atom_feed:
-  hide                   : true
-
-# SEO Related
-google_site_verification :
-bing_site_verification   :
-
-# Social Sharing
-twitter:
-  username               :
-social:
-  type                   : Person
-  name                   : "Conor"
-  links:
-    - https://github.com/Conor-Qbo
-    - https://www.xiaohongshu.com/user/profile/5df428250000000001007daa
-
-# Analytics
-analytics:
-  provider               : false
-
-# Reading Files
-include:
-  - .htaccess
-  - _pages
-exclude:
-  - "*.sublime-project"
-  - "*.sublime-workspace"
-  - .asset-cache
-  - .bundle
-  - .github
-  - .jekyll-assets-cache
-  - .sass-cache
-  - assets/js/plugins
-  - assets/js/vendor
-  - CHANGELOG
-  - Capfile
-  - config
-  - Gemfile
-  - Gruntfile.js
-  - gulpfile.js
-  - LICENSE
-  - log
-  - node_modules
-  - package.json*
-  - Rakefile
-  - README
-  - tmp
-  - vendor
-keep_files:
-  - .git
-encoding: "utf-8"
-markdown_ext: "markdown,mkdown,mkdn,mkd,md"
-
-# Conversion
-markdown: kramdown
-highlighter: rouge
-lsi: false
-excerpt_separator: "\n\n"
-incremental: false
-
-kramdown:
-  input: GFM
-  hard_wrap: false
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-  smart_quotes: lsquo,rsquo,ldquo,rdquo
-  enable_coderay: false
-
-# Collections (you already deleted these folders, so keep minimal)
-collections:
-  teaching:
-    output: false
-  publications:
-    output: false
-  portfolio:
-    output: false
-  talks:
-    output: false
-
-# Defaults
-defaults:
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true
-
-# Sass/SCSS
-sass:
-  sass_dir: _sass
-  style: compressed
-
-# Outputting
-permalink: /:categories/:title/
-timezone: Asia/Shanghai
-
-# Plugins
-plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jemoji
-
-whitelist:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jemoji
-
-# Archives
-category_archive:
-  type: liquid
-  path: /categories/
-tag_archive:
-  type: liquid
-  path: /tags/
-
-# HTML Compression
 compress_html:
   clippings: all
