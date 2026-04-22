@@ -7,6 +7,27 @@ url                      : "https://conor-qbo.github.io"
 baseurl                  : ""
 repository               : "Conor-Qbo/Conor-Qbo.github.io"
 
+author:
+  name              : "Conor"
+  bio               : "HR | Robotics & AI Talent<br>Interesting sharing <br>authentic information<br>有趣的分享，真实的信息。"
+  avatar            : "/assets/images/Qbo.jpg"
+  uri               : "https://www.xiaohongshu.com/user/profile/5df428250000000001007daa"
+  email             : "xfire19580517@163.com"
+  github            : "Conor-Qbo"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/Conor-Qbo"
+    - label: "小红书"
+      icon: "fab fa-weibo"
+      url: "https://www.xiaohongshu.com/user/profile/5df428250000000001007daa"
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:xfire19580517@163.com"
+    - label: "公众号：conorHR"
+      icon: "fab fa-weixin"
+    - label: "公众号：清bo"
+      icon: "fab fa-weixin"
 
 breadcrumbs              : false
 words_per_minute         : 160
