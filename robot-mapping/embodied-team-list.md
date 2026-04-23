@@ -1,5 +1,5 @@
 ---
-title: "embodied-team-list"
+title: "Embodied Team List"
 layout: single
 permalink: /robot-mapping/embodied-team-list/
 ---
