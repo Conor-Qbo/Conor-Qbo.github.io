@@ -1,14 +1,14 @@
 ---
-title: "Robot Mapping"
+title: "embodied-team-list"
 layout: single
-permalink: /robot-mapping/
+permalink: /robot-mapping/embodied-team-list/
 ---
 
 ## Embodied Team list
 
 ### embodied-robotics body
 
-#### 🔝 Tier 1
+#### ⬆️ Tier 1
 - Unitree 宇树
 - AgiBot 智元
 - Leju 乐聚
