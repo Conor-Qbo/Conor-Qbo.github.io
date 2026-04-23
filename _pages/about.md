@@ -12,7 +12,7 @@ It's a pleasure to connect with you! 🤝<br><br>
   
 <strong>Firstly</strong>, Team I am currently supporting:<br><br>
 
-[Embodied Team List](/robot-mapping/embodied-team-list/)<br><br>
+[Embodied Team List](/robot-mapping/embodied-team-list/)<br>
   
 AI, Robotics, Dexterous Hands, AR/VR Headsets, Agents, and Embodied Data.<br><br>
 
