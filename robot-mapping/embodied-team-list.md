@@ -8,4 +8,4 @@ permalink: /robot-mapping/bodyTier1/
 
 ### 子：embodied-robotics body
 
-[1.Embodied body Tier1](/robot-mapping/bodyTier1/)
+[1. Embodied body Tier1](/robot-mapping/bodyTier1/)
