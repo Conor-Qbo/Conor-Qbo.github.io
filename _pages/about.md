@@ -4,23 +4,29 @@ title: "About Conor"
 author_profile: true
 ---
 
+<small>
 
-<p style="font-size:14px; line-height:1.8;">
-Hello! I'm <strong>Conor</strong> 🙌<br><br>
-A dedicated <strong>HR</strong> specializing in <strong>robotics and AI talent</strong> acquisition.<br><br>
-It's a pleasure to connect with you! 🤝<br><br>
-  
-<strong>Firstly</strong>, Team I am currently supporting:<br><br>
+Hello! I'm **Conor** 🙌
 
-[Embodied Team List](/robot-mapping/embodied-team-list/)<br>
-  
-AI, Robotics, Dexterous Hands, AR/VR Headsets, Agents, and Embodied Data.<br><br>
+A dedicated **HR** specializing in **robotics and AI talent** acquisition.
 
-<strong>Secondly</strong>, Job I am currently supporting:<br><br>
+It's a pleasure to connect with you! 🤝
 
-DL, ML, RL, AI Agents, Generative AI, Embodied Data,WM, VLA,Motion Control, Image Algorithms etc.<br><br>
-My goal is to <strong>share genuine and interesting information</strong>, and <strong>build seamless connections</strong> between hiring teams and forward-thinking you, to drive <strong>impactful outcomes</strong>.<br><br>
-Thank you for reading.<br><br>
-Best regards,<br>
-<strong>Conor HR</strong> ✍︎
-</p>
+**Firstly**, Team I am currently supporting:
+
+[Embodied Team List](/robot-mapping/embodied-team-list/)
+
+AI, Robotics, Dexterous Hands, AR/VR Headsets, Agents, and Embodied Data.
+
+**Secondly**, Job I am currently supporting:
+
+DL, ML, RL, AI Agents, Generative AI, Embodied Data, WM, VLA, Motion Control, Image Algorithms etc.
+
+My goal is to **share genuine and interesting information**, and **build seamless connections** between hiring teams and forward-thinking you, to drive **impactful outcomes**.
+
+Thank you for reading.
+
+Best regards,
+**Conor HR** ✍︎
+
+</small>
