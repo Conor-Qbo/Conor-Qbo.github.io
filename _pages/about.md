@@ -11,6 +11,7 @@ A dedicated <strong>HR</strong> specializing in <strong>robotics and AI talent</
 It's a pleasure to connect with you! 🤝<br><br>
   
 <strong>Firstly</strong>, Team I am currently supporting:<br><br>
+[Embodied Team list](/robot-mapping/embodied-team-list/)
   
 AI, Robotics, Dexterous Hands, AR/VR Headsets, Agents, and Embodied Data.<br><br>
 
