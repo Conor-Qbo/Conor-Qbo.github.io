@@ -4,8 +4,9 @@ layout: single
 permalink: /robot-mapping/
 ---
 
-# 甲
-## 子
-### 一
-#### 1.一个新客户
-- [怎么判断一个企业的性质](/robot-mapping/how/)
+### 子：embodied-robotics body
+
+  [1. Embodied body Tier1](/robot-mapping/bodytier1/)
+  
+  [2. Embodied body Tier2](/robot-mapping/bodytier2/)
+
