@@ -19,3 +19,5 @@ permalink: /robot-mapping/bodytier1/
 - TARS 它石
 - UBTECH 优必选
 - Fourier Intelligence 傅利叶
+
+- [Embodied Team List](/robot-mapping/embodied-team-list/)
