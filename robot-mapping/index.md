@@ -1,10 +1,10 @@
 ---
-title: "Robot Mapping"
+title: "Robot Mapping 具身地图"
 layout: single
 permalink: /robot-mapping/
 ---
 
-### 子：embodied-robotics body
+### Embodied-body 具身本体
 
   1.[Embodied body Tier1](/robot-mapping/bodytier1/)
   
