@@ -1,10 +1,9 @@
 ---
-title: "文字分享Articles"
+title: "文章分享 Articles sharing"
 layout: single
 permalink: /articles/
 ---
 
-## Articles
 
 ### 📂 interesting sharing
 - 🔝 [灵巧手为什么在2026年迎来了新的爆发？](https://mp.weixin.qq.com/s/_-dPOhKe1f_AGN3RNXlKZA)
