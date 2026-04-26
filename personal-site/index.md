@@ -35,4 +35,5 @@ permalink: /personal-site/
 </p>
 
 [← 返回 Embodied Mapping](/robot-mapping/)
+<br>
 [回到首页 Hi Conor](_pages/about.md)
