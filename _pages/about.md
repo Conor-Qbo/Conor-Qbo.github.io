@@ -15,7 +15,7 @@ So happy to connect with you! 🤝<br>
 My goal is that **sharing authentic and interesting information**,<br>
 and **build seamless connections** between hiring teams and forward-thinking you,<br>
 in order to **<span style="color:red;">drive impactful outcomes</span>**.<br><br>
-Any chatting with **Conor WeChat** 【Qbo0127, 卅年書剑海天龝】,<br>
+Any chatting with **[Conor](/personal-site/)**<br>
 will be **responded rapidly**.<br><br>
 Thank you<br>
 Best regards, **Conor** ✍︎
