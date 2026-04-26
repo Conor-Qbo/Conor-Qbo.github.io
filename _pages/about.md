@@ -10,6 +10,7 @@ a **HR** specializing in **robotics and AI talent** acquisition.<br>
 so pleasure to connect with you! 🤝<br>
 
 **Here's** [【具身团队名录 Embodied Team List】 i am currently supporting](permalink: /robot-mapping/)
+**Here's** [【职位 Job i am currently supporting】]<br>
 
 My goal that is to **share genuine and interesting information**,<br>
 and **build seamless connections** , between hiring teams and forward-thinking you,<br>
