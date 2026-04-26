@@ -9,4 +9,4 @@ permalink: /robot-mapping/
 [robot body Tier2](/robot-mapping/bodytier2/)
 
 ### Dexterous-Hand 灵巧手团队
-[Dexterous-Hand-list](/robot-mapping/dexterous-hand-list/)
+[dexterous-Hand-list](/robot-mapping/dexterous-hand-list/)
