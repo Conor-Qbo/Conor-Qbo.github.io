@@ -16,6 +16,6 @@ My goal is to **share genuine and interesting information**,<br>
 and **build seamless connections** between hiring teams and forward-thinking you,<br>
 in order to drive impactful outcomes.<br><br>
 Any chatting with 【WeChat：Qbo0127 or 17822071207】<br>
-will be responded rapidly ！<br>
+will be **responded rapidly** ！<br>
 Thank you<br>
 Best regards, **Conor** ✍︎
