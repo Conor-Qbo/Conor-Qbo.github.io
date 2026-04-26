@@ -33,3 +33,6 @@ permalink: /personal-site/
 <p align="center">
 <img src="/assets/images/Qboo.jpg" width="300">
 </p>
+
+[← 返回 Embodied Mapping](/robot-mapping/)
+[回到首页 Hi Conor](_pages/about.md)
