@@ -1,5 +1,5 @@
 ---
-title: "文章分享ArticlesSharing"
+title: "文章分享 Articles Sharing"
 layout: single
 permalink: /articles/
 ---
@@ -17,4 +17,4 @@ permalink: /articles/
 - 🔝 [破人类纪录之外，人形机器人半马的背后我们看到了什么？](https://mp.weixin.qq.com/s/n_jGKfMholDphi3OBSl1EA)
 - 🔝 [机器人突破人类半马记录，人类从此输掉速度了吗？｜长江评论](https://mp.weixin.qq.com/s/Zx8h2MBMT8mvjgdCKiWd9A)
 
-[← 返回 Embodied Team List](/robot-mapping/)
+[← 返回 Embodied Mapping](/robot-mapping/)
