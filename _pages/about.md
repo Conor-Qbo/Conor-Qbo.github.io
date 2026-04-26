@@ -10,7 +10,7 @@ A **HR** specializing in <span style="color:red;">robotics and AI</span> talent 
 So happy to connect with you! 🤝<br>
 
 **Here's** [具身团队名录 Embodied Team List](/robot-mapping/) I am currently supporting.<br>
-**Here's** [在招职位目录 Embodied Job List](/robot-mapping/job/) I am currently supporting.<br>
+**Here's** [在招职位目录 Embodied Jobs List](/robot-mapping/job/) I am currently supporting.<br>
 
 My goal is that **sharing authentic and interesting information**,<br>
 and **build seamless connections** between hiring teams and forward-thinking you,<br>
