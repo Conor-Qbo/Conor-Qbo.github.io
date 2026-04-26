@@ -11,5 +11,7 @@ permalink: /robot-mapping/
 ### Dexterous-Hand 灵巧手团队
 [dexterous-Hand-list](/robot-mapping/dexterous-hand-list/)
 
-[← 返回 Embodied Mapping](/robot-mapping/)
+[← 去到 Job i supporting](/supporting-job/)
+<br>
+[← 回到首页 Hi Conor](/)
 
