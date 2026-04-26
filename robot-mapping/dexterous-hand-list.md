@@ -25,4 +25,4 @@ permalink: /robot-mapping/dexterous-hand-list/
 - 曦诺未来
 - 兆威电机
 
-[← 返回 Embodied Team List](/robot-mapping/embodied-team-list/)
+[← 返回 Embodied Mapping](/robot-mapping/)
