@@ -5,7 +5,7 @@ permalink: /robot-mapping/
 ---
 
 ### Embodied-body 具身本体团队
-[Embodied body Tier1](/robot-mapping/bodytier1/)[br]
+[Embodied body Tier1](/robot-mapping/bodytier1/)<br>
 [Embodied body Tier2](/robot-mapping/bodytier2/)
 
 ### Dexterous-Hand 灵巧手团队
