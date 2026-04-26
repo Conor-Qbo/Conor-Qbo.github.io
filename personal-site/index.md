@@ -6,9 +6,9 @@ permalink: /personal-site/
 
 ### ⑴ Here's Conor-contact information
 
--TEL   ：17822071207<br>
--WeChat：Qbo0127（卅年書剑海天龝）<br>
--Email ：xfire19580517@163.com<br>
+-T-E-L：17822071207<br>
+-Email：xfire19580517@163.com<br>
+-WeChat: **<span style="color:red;">Qbo0127</span>**（卅年書劍海天秋）<br>
 
 ### ⑵ Here's Conor-小红书社区
 👤[conor HR](https://www.xiaohongshu.com/user/profile/5df428250000000001007daa)
