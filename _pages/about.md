@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 <br>
-Hello! I'm <span style="color:red;">Conor</span> 👋<br>
+Hello!  I'm **<span style="color:red;">Conor</span>** 👋<br>
 A HR specializing in <span style="color:red;">robotics and AI talent</span> acquisition.<br>
 It's a pleasure to connect with you! 🤝<br>
 
@@ -14,6 +14,8 @@ It's a pleasure to connect with you! 🤝<br>
 
 My goal is to **share genuine and interesting information**,<br>
 and **build seamless connections** between hiring teams and forward-thinking you,<br>
-in order to drive impactful outcomes.<br><br>
+in order to **<span style="color:red;">drive impactful outcomes</span>**.<br><br>
+Any chatting with--**Qbo0127/卅年書剑海天龝**【Conor WeChat】,<br>
+will be **responded rapidly**.<br><br>
 Thank you<br>
 Best regards, **Conor** ✍︎
