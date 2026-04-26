@@ -12,4 +12,4 @@ permalink: /robot-mapping/bodytier2/
 - Lingchu灵初智能
 - LimX逐际动力
 
-[← 返回 Embodied Team List](/robot-mapping/embodied-team-list/)
+[← 返回 Embodied Mapping](/robot-mapping/)
