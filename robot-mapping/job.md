@@ -1,0 +1,10 @@
+---
+title: "Job 招聘职位"
+layout: single
+permalink: /robot-mapping/job/
+---
+
+DL/ML/RL/IL、AI Infra、Data、LLM/VLM/VLA、Generative AI、World Model、Robot Control、LiDAR SLAM、CV 等等<br><br>
+产品经理、研发PM、机械结构、电机、硬件电子、嵌入式软件开发、软件专家、ios、Agent、Golang、GTM、SQE、FAE 等等
+
+[← 返回 Embodied Team List](/robot-mapping/)
