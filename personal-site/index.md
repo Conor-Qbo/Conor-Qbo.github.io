@@ -22,14 +22,14 @@ permalink: /personal-site/
 
 ### ⑷ Here's Conor-公众号
 👤[conorHR](#)<br>
-
+【微信搜索：conorHR】
 <p align="center">
 <img src="/assets/images/conorHR.jpg" width="300">
 </p>
 
 ### ⑸ Here's Conor-公众号
 👤[清bo](#)<br>
-
+【微信搜索：清bo】
 <p align="center">
 <img src="/assets/images/Qboo.jpg" width="300">
 </p>
