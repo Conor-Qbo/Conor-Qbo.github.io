@@ -1,5 +1,5 @@
 locale                   : "en-US"
-title                    : "Conor | Robotics & AI Recruiter"
+title                    : "Conor | Embodied & AI Recruiter"
 title_separator          : "-"
 name                     : "Conor"
 description              : "HR ＆ Recruiter specializing in Robotics and AI"
@@ -8,8 +8,10 @@ baseurl                  : ""
 repository               : "Conor-Qbo/Conor-Qbo.github.io"
 
 author:
-  name              : "Conor"
-  bio               : "HR | Robotics & AI Talent<br>—— ——<br>Interesting sharing <br>authentic information<br>有趣的分享，真实的信息。"
+  name              : "Conor HR"
+  bio               : "<br>Interesting sharing 有趣的分享 <br>authentic information 真实的信息<br>-TEL：17822071207<br>-WeChat：Qbo0127"
+
+
   avatar            : "https://github.com/Conor-Qbo/Conor-Qbo.github.io/blob/master/Qbo.jpg?raw=true"
   uri               : "https://www.xiaohongshu.com/user/profile/5df428250000000001007daa"
   email             : "xfire19580517@163.com"
