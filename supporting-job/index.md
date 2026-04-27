@@ -13,6 +13,5 @@ World Model、Robot Control、LiDAR SLAM、CV等等;<br><br>
 Golang、GTM、SQE、FAE等等。
 
 <br>
-[← 返回 Embodied Mapping](/robot-mapping/)
-<br>
+[← 返回 Embodied Mapping](/robot-mapping/)<br>
 [← 回到首页 Hi Conor](/)
