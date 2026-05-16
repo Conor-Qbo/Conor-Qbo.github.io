@@ -12,9 +12,9 @@ permalink: /personal-site/
 👤[ConorHR 小红书社区](https://www.xiaohongshu.com/user/profile/5df428250000000001007daa)<br>
 👤[Conor 脉脉名片](https://maimai.cn/profile/detail?dstu=237746723&trackable_token=BDFBA5jM7xixt8NyFhY279FssmACFQPvlioPwKqdWwDamksKSHk0kWNeJw8Q0pTr)
 <br>
-👤[ConorHR](#)微信搜索：**ConorHR**<br>
-👤[清bo](#)微信搜索：**清bo** - 一个分享历史思考的微信公众账号
-<br>
+👤微信搜索[ConorHR](#) 一个分享求职信息的微信公众号
+👤微信搜索[清bo](#)   一个分享历史思考的微信公众号
+<br><br><br><br>
 🔙 [Embodied Mapping](/robot-mapping/)
 <br>
 🔙 [Hi Conor](/)
