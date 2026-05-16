@@ -11,8 +11,8 @@ permalink: /robot-mapping/
 ### Dexterous-Hand 灵巧手团队
 [dexterous-Hand-list](/robot-mapping/dexterous-hand-list/)
 
-### 重要团队
-[WUJI 舞肌-灵巧手 ⬅️团队介绍](/team-produce/舞肌WUJI——Dex hand 灵巧手——form Conor.pdf)
+### 重要团队  优先阅读
+[WUJI 舞肌-灵巧手](/team-produce/舞肌WUJI——Dex hand 灵巧手——form Conor.pdf) ⬅️团队介绍
 
 [← 去到 Job i supporting](/supporting-job/)
 <br>
