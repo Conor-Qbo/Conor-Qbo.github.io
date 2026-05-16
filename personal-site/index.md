@@ -14,7 +14,7 @@ permalink: /personal-site/
 <br>
 👤微信搜索[ConorHR](#) 一个分享求职信息的微信公众号
 👤微信搜索[清bo](#)   一个分享历史思考的微信公众号
-<br><br><br><br>
+<br><br><br>
 🔙 [Embodied Mapping](/robot-mapping/)
 <br>
 🔙 [Hi Conor](/)
