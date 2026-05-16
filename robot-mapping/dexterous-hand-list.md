@@ -7,7 +7,7 @@ permalink: /robot-mapping/dexterous-hand-list/
 ## 灵巧手团队名录
 - Shadow Robot 影子
 - Sharpa 大裂谷
-- [WUJI 舞肌-灵巧手  ⬅️点击阅读](/team-produce/舞肌WUJI——Dex hand 灵巧手——form Conor.pdf)
+- [WUJI 舞肌-灵巧手  ⬅️团队介绍](/team-produce/舞肌WUJI——Dex hand 灵巧手——form Conor.pdf)
 - Zhiyuan 智元临界点
 - PaXini 帕西尼感知
 - Linkerbot 灵心巧手
