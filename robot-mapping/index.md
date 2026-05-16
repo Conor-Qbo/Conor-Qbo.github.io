@@ -12,8 +12,8 @@ permalink: /robot-mapping/
 [dexterous-Hand-list](/robot-mapping/dexterous-hand-list/)
 
 ### 重要团队  优先阅读
-[机器科学Roboscience](team-produce/机器科学Roboscience——具身智能大模型＆本体——form Conor.pdf)⬅️团队介绍
-[舞肌WUJI-灵巧手](/team-produce/舞肌WUJI——Dex hand 灵巧手——form Conor.pdf) ⬅️团队介绍
+🤖[机器科学Roboscience](team-produce/机器科学Roboscience——具身智能大模型＆本体——form Conor.pdf)⬅️团队介绍<br>
+🤖[舞肌WUJI-灵巧手](/team-produce/舞肌WUJI——Dex hand 灵巧手——form Conor.pdf) ⬅️团队介绍
 
 [← 去到 Job i supporting](/supporting-job/)
 <br>
