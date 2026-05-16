@@ -5,14 +5,10 @@ permalink: /robot-mapping/dexterous-hand-list/
 ---
 
 ## 灵巧手团队名录
-
-### 🔝 Tier 1
 - Shadow Robot 影子
 - Sharpa 大裂谷
 - WUJI 舞肌
 - Zhiyuan 智元临界点
-
-### 🔝 Tier 2
 - PaXini 帕西尼感知
 - Linkerbot 灵心巧手
 - Inspire 因时
@@ -25,4 +21,4 @@ permalink: /robot-mapping/dexterous-hand-list/
 - 曦诺未来
 - 兆威电机
 
-[← 返回 Embodied Mapping](/robot-mapping/)
+[← 返回 Embodied Mapping 具身团队名录](/robot-mapping/)
