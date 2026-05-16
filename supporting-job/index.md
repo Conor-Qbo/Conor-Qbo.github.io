@@ -12,5 +12,5 @@ World Model、Robot Control、LiDAR SLAM、CV等等;<br><br>
 嵌入式软件开发、软件专家、iOS、Agent;<br>
 Golang、GTM、SQE、FAE等等。<br>
 
-[← 去到 Embodied Mapping](/robot-mapping/)<br>
-[← 回到首页 Hi Conor](/)
+去到[←Embodied Mapping](/robot-mapping/)<br>
+回到[←Hi Conor](/)
