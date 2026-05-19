@@ -1,5 +1,5 @@
 ---
-title: "Tier 1"
+title: "具身第一梯队-中国"
 layout: single
 permalink: /robot-mapping/bodytier1/
 ---
@@ -16,8 +16,8 @@ permalink: /robot-mapping/bodytier1/
 - Spirit AI 千寻智能
 - NOETIX Robotics 松延动力
 - EngineAI 众擎
-- TARS 它石
+- [TARS 它石](https://mp.weixin.qq.com/s/xvjPzUyAdH2P5XwJa7F8yQ)
 - UBTECH 优必选
 - Fourier Intelligence 傅利叶
 
-[← 返回 Embodied Mapping](/robot-mapping/)
+🔙 [Embodied Mapping](/robot-mapping/)
