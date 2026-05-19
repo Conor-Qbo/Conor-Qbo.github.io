@@ -4,9 +4,9 @@ layout: single
 permalink: /robot-mapping/
 ---
 
-[具身第一梯队-中国](/robot-mapping/bodytier1/)<br>
-[具身创业团队-中国](/robot-mapping/bodytier2/)<br>
-[灵巧手团队dexterous-Hand-list](/robot-mapping/dexterous-hand-list/)
+[具身第一梯队-中国](/robot-mapping/bodytier1/) - 点击这里阅读<br>
+[具身创业团队-中国](/robot-mapping/bodytier2/) - 点击这里阅读<br>
+[灵巧手团队dexterous-Hand-list](/robot-mapping/dexterous-hand-list/) - 点击这里阅读
 
 #### 🔆推荐查看
 🤖[亮源新创Light Robotics](team-produce/亮源新创 Light Robotics.pdf)👈-团队介绍-**OpenAI大牛创业**，**追求卓越的机器人大模型和本体**。<br>
