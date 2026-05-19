@@ -14,7 +14,7 @@ permalink: /robot-mapping/
 🤖[舞肌WUJI-灵巧手](/team-produce/舞肌WUJI——Dex hand 灵巧手——form Conor.pdf)👈-团队介绍-**中国第一梯队的直驱灵巧手**，**舞肌**。<br>
 
 <div style="text-align: center; margin: 2rem 0;">
-  <img src="https://conor-qbo.github.io/1.jpg" alt="具身地图" style="max-width: 700px; width: 100%; height: auto; border-radius: 8px;">
+  <img src="https://conor-qbo.github.io/1.jpg" alt="具身地图" style="max-width: 420px; width: 100%; height: auto; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);">
 </div>
 
 🔜 [Job i supporting](/supporting-job/)<br>
