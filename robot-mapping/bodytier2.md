@@ -1,5 +1,5 @@
 ---
-title: "Tier 2"
+title: "具身创业团队-中国"
 layout: single
 permalink: /robot-mapping/bodytier2/
 ---
