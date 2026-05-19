@@ -13,7 +13,9 @@ permalink: /robot-mapping/
 🤖[机器科学Roboscience](team-produce/机器科学Roboscience——具身智能大模型＆本体——form Conor.pdf)👈-团队介绍-**吴恩达弟子创业**，**最新融资10亿**。<br>
 🤖[舞肌WUJI-灵巧手](/team-produce/舞肌WUJI——Dex hand 灵巧手——form Conor.pdf)👈-团队介绍-**中国第一梯队的直驱灵巧手**，**舞肌**。<br>
 
-1.jpg
+<div style="text-align: center; margin: 2rem 0;">
+  <img src="https://conor-qbo.github.io/1.jpg" alt="具身地图" style="max-width: 700px; width: 100%; height: auto; border-radius: 8px;">
+</div>
 
 🔜 [Job i supporting](/supporting-job/)<br>
 🔙 [Hi Conor](/)
